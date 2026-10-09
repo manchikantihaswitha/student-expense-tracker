@@ -23,7 +23,8 @@ A beginner python project to track student expenses
 ## How to run
 1.Download or clone this repository
 2.Open a terminal in project folder
-Run 'expenseupdate.py'
+3.Run 'expenseupdate.py'
+-Application photo is uploaded
 ## What I Learned
 -Building a GUI with Tkinter
 -Handling using inputs
