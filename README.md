@@ -4,10 +4,14 @@ A beginner python project to track student expenses
 -Add expenses
 -view all expenses
 -categorize examples
--calculate expense amounts
+-calculate total amount spent
 -simple menu-driven interface
+-validate user inputs
 #Technologies Used
 -python
+-Tkinter
+-json
+-OS module
 #Python Concepts Used
 -Lists
 -Variables
@@ -18,9 +22,15 @@ A beginner python project to track student expenses
 -Menu Driven programming
 ## How to run
 1.Download or clone this repository
-2.Open the project in python
-Run 'expense_tracker.py'
+2.Open a terminal in project folder
+Run 'expenseupdate.py'
+## What I Learned
+-Building a GUI with Tkinter
+-Handling using inputs
+-Reading and Writing JSON files
+-working with functions and persistent data storage
 ## Project Status
 Completed
-
-This is my first Python Project,build as part of my journey to improve my programming skills.
+## Author
+A first year engineering student learning Python and building practical projects
+This is my updated Python Project,build as part of my journey to improve my programming skills.
